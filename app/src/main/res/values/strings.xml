@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="first_time_user">First Time User</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="logo">logo</string>
+    <string name="username_icon">username_icon</string>
+    <string name="pwicon">pwicon</string>
+</resources>
